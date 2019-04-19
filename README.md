@@ -24,8 +24,7 @@ VNET only accepts traffic from the Public VNET. Below is a horrible image that s
 how everything is wired up:
 
 
-MY PIC HERE  ---->  __________
-
+![network diagram](azure-sec-lab.png "Diagram")
 
 
 
